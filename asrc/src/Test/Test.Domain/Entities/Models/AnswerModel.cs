@@ -10,5 +10,6 @@ namespace Test.Domain.Entities.Models
     {
         public Guid Id { get; set; } = Guid.NewGuid();
         public int Points { get; set; }
+        public string Text {  get; set; }
     }
 }

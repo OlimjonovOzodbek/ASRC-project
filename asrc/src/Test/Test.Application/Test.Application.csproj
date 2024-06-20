@@ -17,4 +17,8 @@
     <ProjectReference Include="..\Test.Domain\Test.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="UseCases\" />
+  </ItemGroup>
+
 </Project>
